@@ -1,0 +1,13 @@
+
+1.	Tema/Topik : SM Seaside City Cebu (Sebuah Mall yang berada di negara Filipina)
+2.	Untuk bentuk output  yang ditampilakan adalah 3D semirip mungkin dan ditambah 5 objek 
+3.	5 objeknya :
+•	Meja
+•	Kursi
+•	Pohon
+•	Rak 
+•	Lift 
+4.	Untuk memutar objek menggunakan funsi mouse
+5.	Untuk mengerakakan objek ke depan, belakang dan samping menggunakan keyborad
+6.	Untuk animasinya saya masih belum terpikirkan buat animasinya seperti apa
+7.	Sisanya masih dalam tahap pemikiran
